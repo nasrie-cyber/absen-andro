@@ -15,13 +15,14 @@ const RESOURCES = {
 "assets/NOTICES": "b0bf9c068cdcc660023a0d0eb4b67aa7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "174c02fc4609e8fc4389f5d21f16a296",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "676509383cd53c0540f2c0d21f477990",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "19a609134ddf27b97452c5818a592569",
-"/": "19a609134ddf27b97452c5818a592569",
-"main.dart.js": "e32171e16598c0f2fcda0789c9f42e4d",
+"index.html": "f626fa05d46cb6defead6a21f59b3236",
+"/": "f626fa05d46cb6defead6a21f59b3236",
+"main.dart.js": "f54e44e97d706f1a878b0d7a5a9b124f",
 "manifest.json": "de2fa6c0b07304750e669367ca3d2277",
+"styles.css": "c2e0573dea97d365a31c50c2fa2238c0",
 "version.json": "790756534e7e5776686bc99fe1a5e257"
 };
 
